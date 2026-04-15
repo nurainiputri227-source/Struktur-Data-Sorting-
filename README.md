@@ -7,6 +7,7 @@ Program ini mengolah data mahasiswa (nama, NIM, dan nilai), lalu mengurutkannya 
 Program ini tidak hanya menampilkan hasil akhir, tetapi juga memperlihatkan proses setiap iterasi, sehingga memudahkan untuk memahami alur kerja masing-masing algoritma.
 
 
+
 ⚙️ Fitur yang Tersedia
   🔹Tiga algoritma sorting dalam satu program
   🔹Menggunakan konsep object & array
@@ -14,11 +15,13 @@ Program ini tidak hanya menampilkan hasil akhir, tetapi juga memperlihatkan pros
   🔹Output tersusun rapi dan mudah dibaca
 
 
+
 🔄 Alur Program
   - Data mahasiswa dimasukkan ke dalam array
   - Array diduplikasi untuk masing-masing metode sorting
   - Setiap algoritma dijalankan secara terpisah
   - Hasil tiap iterasi langsung ditampilkan
+
 
 
 👩‍💻 Pembuat
