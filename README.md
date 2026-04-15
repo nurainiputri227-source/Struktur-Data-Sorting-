@@ -9,10 +9,10 @@ Program ini tidak hanya menampilkan hasil akhir, tetapi juga memperlihatkan pros
 
 
 ⚙️ Fitur yang Tersedia
-  🔹Tiga algoritma sorting dalam satu program
-  🔹Menggunakan konsep object & array
-  🔹Menampilkan proses sorting di setiap iterasi
-  🔹Output tersusun rapi dan mudah dibaca
+  - Tiga algoritma sorting dalam satu program
+  - Menggunakan konsep object & array
+  - Menampilkan proses sorting di setiap iterasi
+  - Output tersusun rapi dan mudah dibaca
 
 
 
